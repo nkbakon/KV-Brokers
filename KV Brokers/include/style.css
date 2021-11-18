@@ -1,0 +1,12 @@
+.bg-color{
+    background-image : linear-gradient(#171717, #696969);
+}
+
+.sidenav{
+    position: fixed;
+  
+}
+
+.main{
+    margin-left: 230px; 
+}
